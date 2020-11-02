@@ -1,0 +1,16 @@
+#whitespace-pre{
+    white-space: pre;
+}
+#never-wrap{
+    white-space:nowrap;
+}
+#npreserve-wraP{
+    white-space:pre-wrap;
+
+}
+#left-right{
+    direction: ltr;
+}
+#right-left{
+    direction: rtl;
+}
